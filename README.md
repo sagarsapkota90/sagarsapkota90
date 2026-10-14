@@ -300,11 +300,8 @@ Designed a segmented, secure network for a multi-site energy company — topolog
 ```diff
 + ----      [done]   Bachelor's Degree
 + ----      [done]   5+ years in IT support roles
-+ 2026      [done]   Everest IT — IT Support Training Program
-+                    M365 · AD · Exchange · Azure/Entra · Intune · Networking
 + ----      [done]   Microsoft Azure Fundamentals (AZ-900)
 + ----      [done]   CompTIA Network+
-+ 2026      [done]   Everest IT Final Assessment — 10-task enterprise lab
 ! 2026      [active] Home-lab write-ups published on LinkedIn
 ! 2026      [active] Job search — Level 2–3 IT Support, Omaha NE
 # 2026      [next]   Microsoft 365 Fundamentals (MS-900)

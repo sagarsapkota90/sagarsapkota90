@@ -103,7 +103,7 @@ class SagarSapkota:
 <h2 align="center">🌐 ⠀CONNECT WITH ME⠀ 🌐</h2>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/SagarSapkota90"><img src="https://img.shields.io/badge/LinkedIn-050a1a?style=for-the-badge&logo=linkedin&logoColor=00A4EF"/></a>
+  <a href="https://www.linkedin.com/in/sagarsapkotait"><img src="https://img.shields.io/badge/LinkedIn-050a1a?style=for-the-badge&logo=linkedin&logoColor=00A4EF"/></a>
   <a href="https://github.com/sagarsapkota90"><img src="https://img.shields.io/badge/GitHub-050a1a?style=for-the-badge&logo=github&logoColor=00A4EF"/></a>
   <a href="mailto:sagarsapkota90@outlook.com"><img src="https://img.shields.io/badge/Email-050a1a?style=for-the-badge&logo=microsoftoutlook&logoColor=00A4EF"/></a>
 </p>

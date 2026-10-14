@@ -119,76 +119,122 @@ class SagarSapkota:
 <td width="50%" valign="top">
 
 ### 🔐 ⠀IDENTITY & ACCESS
-<sub>On-prem directory → hybrid sync → cloud identity</sub>
+> `On-prem AD` → `Entra Connect` → `Entra ID`
 
-![Active Directory](https://img.shields.io/badge/Active_Directory-0078D4?style=flat-square&logo=windows&logoColor=white)
-![Entra ID](https://img.shields.io/badge/Entra_ID-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
-![Entra Connect](https://img.shields.io/badge/Entra_Connect_Sync-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
-![SSPR](https://img.shields.io/badge/SSPR_%2B_Writeback-0078D4?style=flat-square&logo=microsoft&logoColor=white)
-![MFA](https://img.shields.io/badge/MFA-0078D4?style=flat-square&logo=microsoftauthenticator&logoColor=white)
+<p>
+<img src="https://upload.wikimedia.org/wikipedia/commons/8/8c/Microsoft_Entra_ID_color_icon.svg" width="48" height="48" alt="Entra ID" title="Entra ID"/>
+<img src="https://api.iconify.design/skill-icons:azure-dark.svg?height=48" height="48" alt="Azure" title="Azure"/>
+<img src="https://api.iconify.design/fluent:people-team-24-filled.svg?height=48&color=%2300A4EF" height="48" alt="Active Directory" title="Active Directory"/>
+<img src="https://api.iconify.design/fluent:key-24-filled.svg?height=48&color=%2300A4EF" height="48" alt="SSPR" title="SSPR"/>
+<img src="https://api.iconify.design/fluent:shield-lock-24-filled.svg?height=48&color=%2300A4EF" height="48" alt="MFA" title="MFA"/>
+</p>
+
+![Active Directory](https://img.shields.io/badge/Active_Directory-0a1628?style=for-the-badge)
+![Entra ID](https://img.shields.io/badge/Entra_ID-0a1628?style=for-the-badge)
+![Entra Connect Sync](https://img.shields.io/badge/Entra_Connect_Sync-0a1628?style=for-the-badge)
+![SSPR + Writeback](https://img.shields.io/badge/SSPR_%2B_Writeback-0a1628?style=for-the-badge)
+![MFA](https://img.shields.io/badge/MFA-0a1628?style=for-the-badge)
 
 </td>
 <td width="50%" valign="top">
 
 ### ☁️ ⠀MICROSOFT 365
-<sub>Tenant → licensing → mail → collaboration</sub>
+> `Tenant` → `Licensing` → `Mail` → `Collaboration`
 
-![M365](https://img.shields.io/badge/Microsoft_365-D83B01?style=flat-square&logo=microsoftoffice&logoColor=white)
-![Exchange](https://img.shields.io/badge/Exchange_Online-0078D4?style=flat-square&logo=microsoftexchange&logoColor=white)
-![Outlook](https://img.shields.io/badge/Outlook-0078D4?style=flat-square&logo=microsoftoutlook&logoColor=white)
-![Teams](https://img.shields.io/badge/Teams-6264A7?style=flat-square&logo=microsoftteams&logoColor=white)
-![SharePoint](https://img.shields.io/badge/SharePoint-0078D4?style=flat-square&logo=microsoftsharepoint&logoColor=white)
+<p>
+<img src="https://upload.wikimedia.org/wikipedia/commons/0/0e/Microsoft_365_%282022%29.svg" height="48" alt="Microsoft 365" title="Microsoft 365"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/e/ea/Microsoft_Exchange_%282019-present%29.svg" height="48" alt="Exchange" title="Exchange"/>
+<img src="https://api.iconify.design/vscode-icons:file-type-outlook.svg?height=48" height="48" alt="Outlook" title="Outlook"/>
+<img src="https://api.iconify.design/logos:microsoft-teams.svg?height=48" height="48" alt="Teams" title="Teams"/>
+<img src="https://api.iconify.design/logos:microsoft-onedrive.svg?height=48" height="48" alt="OneDrive" title="OneDrive"/>
+</p>
+
+![M365 Admin Center](https://img.shields.io/badge/M365_Admin_Center-0a1628?style=for-the-badge)
+![Exchange Online](https://img.shields.io/badge/Exchange_Online-0a1628?style=for-the-badge)
+![Outlook](https://img.shields.io/badge/Outlook-0a1628?style=for-the-badge)
+![Teams](https://img.shields.io/badge/Teams-0a1628?style=for-the-badge)
+![SharePoint](https://img.shields.io/badge/SharePoint-0a1628?style=for-the-badge)
+![Licensing](https://img.shields.io/badge/Licensing-0a1628?style=for-the-badge)
 
 </td>
 </tr>
 <tr>
-<td valign="top">
+<td width="50%" valign="top">
 
 ### 💻 ⠀ENDPOINT MANAGEMENT
-<sub>Enroll → configure → secure → support</sub>
+> `Enroll` → `Configure` → `Secure` → `Support`
 
-![Intune](https://img.shields.io/badge/Microsoft_Intune-0078D4?style=flat-square&logo=microsoft&logoColor=white)
-![Autopilot](https://img.shields.io/badge/Windows_Autopilot-0078D4?style=flat-square&logo=windows&logoColor=white)
-![GPO](https://img.shields.io/badge/Group_Policy-0078D4?style=flat-square&logo=windows&logoColor=white)
-![Windows 11](https://img.shields.io/badge/Windows_10%2F11-0078D4?style=flat-square&logo=windows11&logoColor=white)
+<p>
+<img src="https://api.iconify.design/logos:microsoft-windows-icon.svg?height=48" height="48" alt="Windows" title="Windows"/>
+<img src="https://api.iconify.design/fluent:phone-laptop-24-filled.svg?height=48&color=%2300A4EF" height="48" alt="Intune" title="Intune"/>
+<img src="https://api.iconify.design/fluent:laptop-24-filled.svg?height=48&color=%2300A4EF" height="48" alt="Autopilot" title="Autopilot"/>
+<img src="https://api.iconify.design/fluent:settings-24-filled.svg?height=48&color=%2300A4EF" height="48" alt="Group Policy" title="Group Policy"/>
+</p>
+
+![Microsoft Intune](https://img.shields.io/badge/Microsoft_Intune-0a1628?style=for-the-badge)
+![Windows Autopilot](https://img.shields.io/badge/Windows_Autopilot-0a1628?style=for-the-badge)
+![Group Policy](https://img.shields.io/badge/Group_Policy-0a1628?style=for-the-badge)
+![Windows 10/11](https://img.shields.io/badge/Windows_10%2F11-0a1628?style=for-the-badge)
 
 </td>
-<td valign="top">
+<td width="50%" valign="top">
 
 ### 🛡️ ⠀SECURITY & COMPLIANCE
-<sub>Protect data → retain → investigate</sub>
+> `Protect` → `Retain` → `Investigate`
 
-![Purview](https://img.shields.io/badge/Microsoft_Purview-0078D4?style=flat-square&logo=microsoft&logoColor=white)
-![DLP](https://img.shields.io/badge/DLP_Policies-0078D4?style=flat-square&logo=microsoft&logoColor=white)
-![eDiscovery](https://img.shields.io/badge/eDiscovery_(Premium)-0078D4?style=flat-square&logo=microsoft&logoColor=white)
-![Litigation Hold](https://img.shields.io/badge/Litigation_Hold-0078D4?style=flat-square&logo=microsoft&logoColor=white)
+<p>
+<img src="https://upload.wikimedia.org/wikipedia/commons/e/e5/Microsoft_Purview_Logo.svg" height="48" alt="Microsoft Purview" title="Microsoft Purview"/>
+<img src="https://api.iconify.design/fluent:shield-lock-24-filled.svg?height=48&color=%2300A4EF" height="48" alt="DLP" title="DLP"/>
+<img src="https://api.iconify.design/fluent:document-search-24-filled.svg?height=48&color=%2300A4EF" height="48" alt="eDiscovery" title="eDiscovery"/>
+<img src="https://api.iconify.design/fluent:lock-closed-24-filled.svg?height=48&color=%2300A4EF" height="48" alt="Litigation Hold" title="Litigation Hold"/>
+</p>
+
+![Microsoft Purview](https://img.shields.io/badge/Microsoft_Purview-0a1628?style=for-the-badge)
+![DLP Policies](https://img.shields.io/badge/DLP_Policies-0a1628?style=for-the-badge)
+![eDiscovery Premium](https://img.shields.io/badge/eDiscovery_Premium-0a1628?style=for-the-badge)
+![Litigation Hold](https://img.shields.io/badge/Litigation_Hold-0a1628?style=for-the-badge)
 
 </td>
 </tr>
 <tr>
-<td valign="top">
+<td width="50%" valign="top">
 
 ### 🖥️ ⠀SERVERS & INFRASTRUCTURE
-<sub>Windows Server → core services → virtualization</sub>
+> `Windows Server` → `DNS / DHCP` → `Virtualization`
 
-![Windows Server](https://img.shields.io/badge/Windows_Server-0078D6?style=flat-square&logo=windows&logoColor=white)
-![DNS](https://img.shields.io/badge/DNS-0078D6?style=flat-square&logo=cloudflare&logoColor=white)
-![DHCP](https://img.shields.io/badge/DHCP-0078D6?style=flat-square&logo=windows&logoColor=white)
-![File Server](https://img.shields.io/badge/File_Server_%2F_NTFS-0078D6?style=flat-square&logo=files&logoColor=white)
-![VMware](https://img.shields.io/badge/VMware-607078?style=flat-square&logo=vmware&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
+<p>
+<img src="https://api.iconify.design/skill-icons:windows-dark.svg?height=48" height="48" alt="Windows Server" title="Windows Server"/>
+<img src="https://api.iconify.design/fluent:server-24-filled.svg?height=48&color=%2300A4EF" height="48" alt="Servers" title="Servers"/>
+<img src="https://api.iconify.design/fluent:globe-24-filled.svg?height=48&color=%2300A4EF" height="48" alt="DNS" title="DNS"/>
+<img src="https://api.iconify.design/fluent:folder-24-filled.svg?height=48&color=%2300A4EF" height="48" alt="File Server" title="File Server"/>
+<img src="https://api.iconify.design/simple-icons:vmware.svg?height=48&color=%23A5B4C2" height="48" alt="VMware" title="VMware"/>
+</p>
+
+![Windows Server](https://img.shields.io/badge/Windows_Server-0a1628?style=for-the-badge)
+![DNS](https://img.shields.io/badge/DNS-0a1628?style=for-the-badge)
+![DHCP](https://img.shields.io/badge/DHCP-0a1628?style=for-the-badge)
+![File Server / NTFS](https://img.shields.io/badge/File_Server_%2F_NTFS-0a1628?style=for-the-badge)
+![VMware](https://img.shields.io/badge/VMware-0a1628?style=for-the-badge&logo=vmware&logoColor=00A4EF)
+![Azure](https://img.shields.io/badge/Azure-0a1628?style=for-the-badge)
 
 </td>
-<td valign="top">
+<td width="50%" valign="top">
 
 ### 🔌 ⠀NETWORKING & VOICE
-<sub>Layer 1 → routing → remote access → VoIP</sub>
+> `TCP/IP` → `Routing` → `VPN` → `VoIP`
 
-![TCP/IP](https://img.shields.io/badge/TCP%2FIP-1BA0D7?style=flat-square&logo=cisco&logoColor=white)
-![VLANs](https://img.shields.io/badge/VLANs-1BA0D7?style=flat-square&logo=cisco&logoColor=white)
-![VPN](https://img.shields.io/badge/VPN-1BA0D7?style=flat-square&logo=wireguard&logoColor=white)
-![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=flat-square&logo=cisco&logoColor=white)
-![VoIP](https://img.shields.io/badge/Cisco_IP_Communicator-1BA0D7?style=flat-square&logo=cisco&logoColor=white)
+<p>
+<img src="https://api.iconify.design/simple-icons:cisco.svg?height=48&color=%231BA0D7" height="48" alt="Cisco" title="Cisco"/>
+<img src="https://api.iconify.design/fluent:router-24-filled.svg?height=48&color=%2300A4EF" height="48" alt="Routing" title="Routing"/>
+<img src="https://api.iconify.design/fluent:lock-closed-24-filled.svg?height=48&color=%2300A4EF" height="48" alt="VPN" title="VPN"/>
+<img src="https://api.iconify.design/fluent:phone-24-filled.svg?height=48&color=%2300A4EF" height="48" alt="VoIP" title="VoIP"/>
+</p>
+
+![TCP/IP](https://img.shields.io/badge/TCP%2FIP-0a1628?style=for-the-badge)
+![VLANs](https://img.shields.io/badge/VLANs-0a1628?style=for-the-badge)
+![VPN](https://img.shields.io/badge/VPN-0a1628?style=for-the-badge&logo=wireguard&logoColor=00A4EF)
+![Cisco](https://img.shields.io/badge/Cisco-0a1628?style=for-the-badge&logo=cisco&logoColor=00A4EF)
+![Cisco IP Communicator](https://img.shields.io/badge/Cisco_IP_Communicator-0a1628?style=for-the-badge&logo=cisco&logoColor=00A4EF)
 
 </td>
 </tr>
@@ -196,15 +242,24 @@ class SagarSapkota:
 <td colspan="2" valign="top">
 
 ### 🧰 ⠀TOOLS & SUPPORT PRACTICE
-<sub>Diagnose → fix → document → automate</sub>
+> `Diagnose` → `Fix` → `Document` → `Automate`
 
-![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white)
-![CMD](https://img.shields.io/badge/Command_Prompt-4D4D4D?style=flat-square&logo=windowsterminal&logoColor=white)
-![Visio](https://img.shields.io/badge/Visio-3955A3?style=flat-square&logo=microsoft&logoColor=white)
-![Jira](https://img.shields.io/badge/Jira_Service_Management-0052CC?style=flat-square&logo=jira&logoColor=white)
-![Ticketing](https://img.shields.io/badge/Help_Desk_Ticketing-7FBA00?style=flat-square&logo=jira&logoColor=white)
-![Remote Support](https://img.shields.io/badge/Remote_Support-7FBA00?style=flat-square&logo=teamviewer&logoColor=white)
-![Documentation](https://img.shields.io/badge/Technical_Documentation-FFB900?style=flat-square&logo=microsoftword&logoColor=black)
+<p>
+<img src="https://api.iconify.design/skill-icons:powershell-dark.svg?height=48" height="48" alt="PowerShell" title="PowerShell"/>
+<img src="https://api.iconify.design/fluent:window-console-20-filled.svg?height=48&color=%2300A4EF" height="48" alt="Command Prompt" title="Command Prompt"/>
+<img src="https://api.iconify.design/logos:jira.svg?height=48" height="48" alt="Jira" title="Jira"/>
+<img src="https://api.iconify.design/fluent:ticket-diagonal-24-filled.svg?height=48&color=%2300A4EF" height="48" alt="Ticketing" title="Ticketing"/>
+<img src="https://api.iconify.design/vscode-icons:file-type-word.svg?height=48" height="48" alt="Word" title="Word"/>
+<img src="https://api.iconify.design/vscode-icons:file-type-excel.svg?height=48" height="48" alt="Excel" title="Excel"/>
+</p>
+
+![PowerShell](https://img.shields.io/badge/PowerShell-0a1628?style=for-the-badge)
+![Command Prompt](https://img.shields.io/badge/Command_Prompt-0a1628?style=for-the-badge)
+![Jira Service Management](https://img.shields.io/badge/Jira_Service_Management-0a1628?style=for-the-badge&logo=jira&logoColor=2684FF)
+![Help Desk Ticketing](https://img.shields.io/badge/Help_Desk_Ticketing-0a1628?style=for-the-badge)
+![Remote Support](https://img.shields.io/badge/Remote_Support-0a1628?style=for-the-badge&logo=teamviewer&logoColor=00A4EF)
+![Visio](https://img.shields.io/badge/Visio-0a1628?style=for-the-badge)
+![Technical Documentation](https://img.shields.io/badge/Technical_Documentation-0a1628?style=for-the-badge)
 
 </td>
 </tr>

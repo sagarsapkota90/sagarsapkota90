@@ -48,12 +48,11 @@ class SagarSapkota:
         self.alias      = "sagarsapkota90"
         self.location   = "Omaha, Nebraska, USA"
         self.education  = "Bachelor's Degree"
-        self.training   = "IT Support Program — Everest IT (2026)"
         self.experience = "5+ years in IT support"
 
         self.certifications = [
-            "🌐 CompTIA Network+             →  Sep 2026",
-            "☁️ Microsoft Azure Fundamentals →  AZ-900 · Jul 2026",
+            "🌐 CompTIA Network+",
+            "☁️ Microsoft Azure Fundamentals (AZ-900)",
         ]
 
     def stack(self):
@@ -300,8 +299,8 @@ Designed a segmented, secure network for a multi-site energy company — topolog
 + ----      [done]   5+ years in IT support roles
 + 2026      [done]   Everest IT — IT Support Training Program
 +                    M365 · AD · Exchange · Azure/Entra · Intune · Networking
-+ 2026      [done]   Microsoft Azure Fundamentals (AZ-900)        · Jul
-+ 2026      [done]   CompTIA Network+                             · Sep
++ ----      [done]   Microsoft Azure Fundamentals (AZ-900)
++ ----      [done]   CompTIA Network+
 + 2026      [done]   Everest IT Final Assessment — 10-task enterprise lab
 ! 2026      [active] Home-lab write-ups published on LinkedIn
 ! 2026      [active] Job search — Level 2–3 IT Support, Omaha NE

@@ -34,7 +34,7 @@
 
 <h3>💠 ⠀ABOUT ME</h3>
 
-I keep people productive and systems online. With **5+ years in IT support**, I troubleshoot and administer the Microsoft stack end to end — from **Active Directory and Windows Server** on-prem, through **Entra ID hybrid sync**, to **Microsoft 365, Exchange, Intune and Purview** in the cloud — plus the **network and VoIP** layer underneath it all. Every lab I build gets a full step-by-step write-up.
+I keep people productive and systems online. With **5+ years in IT support**, I troubleshoot and administer the Microsoft stack end to end — from **Active Directory and Windows Server** on-prem, through **Entra ID hybrid sync**, to **Microsoft 365, Exchange, Intune and Purview** in the cloud — plus the **network and VoIP** layer underneath it all. I have worked in the **Jira ticketing system** to log, prioritize and resolve incidents and service requests, and every lab I build gets a full step-by-step write-up.
 
 ```python
 ╔══════════════════════════════════════════════════════════════╗
@@ -65,7 +65,8 @@ class SagarSapkota:
             "compliance" : ["Purview DLP", "eDiscovery (Premium)", "Litigation Hold"],
             "servers"    : ["Windows Server", "DNS", "DHCP", "File Server / NTFS"],
             "network"    : ["TCP/IP", "VLANs", "VPN", "Cisco", "Cisco IP Communicator"],
-            "tools"      : ["PowerShell", "CMD", "VMware", "Visio", "Ticketing"],
+            "ticketing"  : ["Jira Service Management", "Incident & Request Tracking", "SLAs"],
+            "tools"      : ["PowerShell", "CMD", "VMware", "Visio"],
         }
 
     def labs_shipped(self):
@@ -94,6 +95,7 @@ class SagarSapkota:
 | 📜 | Studying for `MS-900` · `Microsoft 365 Fundamentals` |
 | ⚙️ | Sharpening `PowerShell` for user, mailbox & device automation |
 | 📝 | Publishing step-by-step lab guides on `LinkedIn` |
+| 🎫 | Worked tickets end to end in `Jira` · incidents, service requests & SLAs |
 | 💬 | Ask me about `Active Directory` · `Entra ID` · `Intune / Autopilot` · `Exchange` · `Networking` |
 | 📫 | Reach me at `sagarsapkota90@outlook.com` |
 
@@ -199,6 +201,7 @@ class SagarSapkota:
 ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white)
 ![CMD](https://img.shields.io/badge/Command_Prompt-4D4D4D?style=flat-square&logo=windowsterminal&logoColor=white)
 ![Visio](https://img.shields.io/badge/Visio-3955A3?style=flat-square&logo=microsoft&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira_Service_Management-0052CC?style=flat-square&logo=jira&logoColor=white)
 ![Ticketing](https://img.shields.io/badge/Help_Desk_Ticketing-7FBA00?style=flat-square&logo=jira&logoColor=white)
 ![Remote Support](https://img.shields.io/badge/Remote_Support-7FBA00?style=flat-square&logo=teamviewer&logoColor=white)
 ![Documentation](https://img.shields.io/badge/Technical_Documentation-FFB900?style=flat-square&logo=microsoftword&logoColor=black)
